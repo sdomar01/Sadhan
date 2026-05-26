@@ -56,14 +56,6 @@ A modern SaaS platform that helps businesses automate growth using AI.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="..." />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 💼 [OnlineJobs.ph](https://v2.onlinejobs.ph/jobseekers/info/4636851)
