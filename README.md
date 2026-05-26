@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Sadhan 👋</h1>
 
 <p align="center">
-AI Automation Specialist • SaaS Builder • Lifelong Learner
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Automation+Specialist;SaaS+Builder;Continuous+Learner;Building+with+AI+%26+Systems&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+AI Automation Specialist • SaaS Builder • Continuous Learner
 </p>
 
 ---
@@ -10,53 +14,54 @@ AI Automation Specialist • SaaS Builder • Lifelong Learner
 
 💼 Currently building: **Aureus AI Growth Engine**  
 ⚡ Focus: AI automation, SaaS systems, business workflows  
-🌍 Goal: Help businesses scale using AI + systems  
+🌱 Continuously improving in AI, development, and real-world systems  
+🌍 Goal: Help businesses scale using AI + automation  
 
 ---
 
 ## 🔥 What I'm Working On
 
-- 🤖 AI-powered SaaS (Aureus)
-- 📊 Automation systems (Claude, APIs, workflows)
-- 🌐 Modern frontend apps (React + Tailwind)
+- 🤖 AI-powered SaaS (Aureus)  
+- 📊 Automation systems (Claude, APIs, workflows)  
+- 🌐 Building modern web applications (React + Tailwind)  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React (Vite)
-- Tailwind CSS
+<p align="center">
 
-**Backend**
-- Node.js
-- PostgreSQL
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge" />
 
-**AI & Tools**
-- Claude API
-- OpenAI API
-- Automation workflows
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
 ### 💡 Aureus AI Growth Engine
+
 A modern SaaS platform that helps businesses automate growth using AI.
 
-- AI automation workflows
-- CRM-style dashboard
-- Scalable SaaS architecture
+- AI automation workflows  
+- CRM-style dashboard  
+- Scalable SaaS architecture  
 
-👉 (Add your live link here later)
+👉 Currently in development — demo coming soon
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdomar01&show_icons=true&theme=radical" />
 </p>
+
 
 ---
 
@@ -70,4 +75,4 @@ A modern SaaS platform that helps businesses automate growth using AI.
 
 ## 💡 Quote
 
-> "Ship fast. Learn faster. Scale with AI."
+> Build. Learn. Improve. Repeat.
