@@ -15,7 +15,7 @@ AI Automation Specialist • SaaS Builder • Continuous Learner
 💼 Currently building: **Aureus AI Growth Engine**  
 ⚡ Focus: AI automation, SaaS systems, business workflows  
 🌱 Continuously improving in AI, development, and real-world systems  
-🌍 Goal: Help businesses scale using AI + automation  
+🌍 Goal: **Help businesses** scale using AI + automation  
 
 ---
 
