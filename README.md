@@ -61,7 +61,7 @@ A modern SaaS platform that helps businesses automate growth using AI.
 - 💼 [OnlineJobs.ph](https://v2.onlinejobs.ph/jobseekers/info/4636851)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/sadhan-omar/](https://www.linkedin.com/in/sadhan-omar-b422b1380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 Email: sdomar.va@email.com
-- [Facebook](https://www.facebook.com/x.ragna)
+- 📘[Facebook-x.ragna](https://www.facebook.com/x.ragna)
 
 ---
 
