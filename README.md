@@ -55,7 +55,7 @@ A modern SaaS platform that helps businesses automate growth using AI.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdomar01&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ A modern SaaS platform that helps businesses automate growth using AI.
 ## 📫 Connect With Me
 
 - 💼 OnlineJobs.ph
-- 📧 Email: your@email.com
+- 📧 Email: sdomar.va@email.com
 
 ---
 
